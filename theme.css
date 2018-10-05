@@ -1,0 +1,29 @@
+body{
+    background: #8EE5DB;
+    font-family: 'Sawarabi Mincho', sans-serif; 
+
+}
+
+h1{
+    color: purple;
+    text-align: center;
+     
+}
+h1:hover{
+    color: yellow;
+}
+.texto-grande{
+    font-size: 36px;
+    color: purple;
+}
+img{
+    width: 400px;
+}
+
+.imagen-s{
+   width: 100px;
+}
+div{
+    width: 600px;
+    margin: 0 auto;   
+}
